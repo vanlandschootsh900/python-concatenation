@@ -23,7 +23,9 @@
 # Use the built-in Python str( ) function to convert your age to a string (when doing concatenation)
 # Use concatenation to display a sentence that tells us your first name and age
 first_name = input('enter name:')
-age = input('enter your age:')
+age = int(input('enter your age:'))
+
+# age = 17
 print(first_name + ' is ' + str(age) + ' years old.')
 
 
