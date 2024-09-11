@@ -1,11 +1,12 @@
-# Student name
-# Current date
+# Shay VanLandchoot
+# 9/11/24
 # String Concatenation
 
 # Part 1
 # Use concatenation to build and display a string that displays which city and state you live in
-
-
+city = 'taversers city'
+state = ' mishagin'
+print('i live in ' + city + state + '.')
 
 
 # Part 2
