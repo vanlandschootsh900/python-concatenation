@@ -31,7 +31,7 @@
 
 # Part 4
 # Use an f-string to build and display a string that contains your first name, last name, and your height in inches
-first_name = 'shay '
-last_name = 'VanLandschoot '
-hight = '72 in'
-print(f'{first_name}{last_name}and is {hight}')
+#first_name = 'shay '
+#last_name = 'VanLandschoot '
+#hight = '72 in'
+#print(f'{first_name}{last_name}and is {hight}')
