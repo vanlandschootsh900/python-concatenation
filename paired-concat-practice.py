@@ -22,10 +22,10 @@
 
 # Part 3
 # Use concatenation to build and display a string that includes your first name, last name, and the year you were born
-first_name = 'charles'
-last_name = " petoskey "
-birth_year = 2007
-print(first_name + last_name + "was born in" +str(birth_year) + '.')
+#first_name = 'charles'
+#last_name = " petoskey "
+#birth_year = 2007
+#print(first_name + last_name + "was born in " +str(birth_year) + '.')
 
 
 # Part 4
